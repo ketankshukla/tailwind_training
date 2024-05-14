@@ -3,8 +3,8 @@ import React from 'react';
 const App: React.FC = () => {
     return (
         <div>
-            <header>
-                <h1>My Website</h1>
+            <header className={"bg-blue-500 text-white p-4"}>
+                <h1 className={"text-3xl font-bold"}>My Website</h1>
             </header>
             <main>
                 <div className="card">
