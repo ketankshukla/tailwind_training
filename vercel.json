@@ -1,0 +1,14 @@
+{
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "tailwind-training.ketanshukla.com"
+        }
+      ],
+      "destination": "/app/:path*"
+    }
+  ]
+}
