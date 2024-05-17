@@ -5,7 +5,7 @@
       "has": [
         {
           "type": "host",
-          "value": "tailwind-training.ketanshukla.com"
+          "value": "tailwind_training.ketanshukla.com"
         }
       ],
       "destination": "/app/:path*"
