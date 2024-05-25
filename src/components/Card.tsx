@@ -12,7 +12,7 @@ export function Card() {
               alt="An image"
             />
           </div>
-          <div className="p-8">
+          <div className="p-8 hover:bg-gray-200">
             <div className="uppercase tracking-wide text-sm text-indigo-500 font-semibold text-center">
               Ketan Shukla
             </div>
