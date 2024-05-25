@@ -2,7 +2,7 @@ import myImage from "../../public/ketan-profile-photo.jpg"
 
 export function Card() {
   return (
-    <main className="flex items-center justify-center bg-gray-200">
+    <main className="flex items-center justify-center bg-blue-200">
       <div className="max-w-md mx-auto bg-white rounded-xl shadow-md overflow-hidden md:max-w-2xl m-4">
         <div className="md:flex">
           <div className="md:flex-shrink-0">
