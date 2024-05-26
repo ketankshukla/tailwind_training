@@ -12,7 +12,7 @@ const Training = () => {
           Friend
         </div>
       </div>
-      <div className="mt-8 border-4 border-black p-4 flex justify-evenly flex-col h-screen">
+      <div className="mt-8 border-4 border-black p-4 flex justify-evenly flex-col">
         <div className="border-4 border-black p-2 bg-amber-200">
           <div className="font-bold text-white text-3xl p-4 bg-emerald-800">
             Hello
@@ -24,7 +24,7 @@ const Training = () => {
         <div className="font-bold border-4 border-black text-black text-3xl p-4 bg-yellow-200">
           Friend
         </div>
-        <div>Hello there!</div>
+        <div className="mt-4 bg-blue-600 text-white font-bold text-3xl">Deployed this on the first-branch!</div>
       </div>
     </>
   );
