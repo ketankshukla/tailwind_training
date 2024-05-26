@@ -24,7 +24,7 @@ const Training = () => {
         <div className="font-bold border-4 border-black text-black text-3xl p-4 bg-yellow-200">
           Friend
         </div>
-        <div className="mt-4 bg-blue-600 text-white font-bold text-3xl">Deployed this on the first-branch!</div>
+        <div className="mt-4 bg-blue-600 text-white font-bold text-4xl">Deployed this on the first-branch!</div>
       </div>
     </>
   );
